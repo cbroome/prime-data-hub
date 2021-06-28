@@ -24,7 +24,6 @@ import java.time.ZoneId
 import java.time.format.DateTimeFormatter
 import java.util.Properties
 import java.util.TimeZone
-import java.util.regex.Pattern
 
 class Hl7Serializer(
     val metadata: Metadata,
