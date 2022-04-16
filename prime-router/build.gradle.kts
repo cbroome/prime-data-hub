@@ -478,7 +478,7 @@ dependencies {
     implementation("com.helger.as2:as2-lib:4.7.1")
     // Prevent mixed versions of these libs based on different versions being included by different packages
     implementation("org.bouncycastle:bcpkix-jdk15on:1.69")
-    implementation("org.bouncycastle:bcmail-jdk15on:1.69")
+    implementation("org.bouncycastle:bcmail-jdk15on:1.70")
     implementation("org.bouncycastle:bcprov-jdk15on:1.69")
 
     implementation("com.cronutils:cron-utils:9.1.5")
